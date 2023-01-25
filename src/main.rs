@@ -1,5 +1,4 @@
 use serde::Deserialize;
-use reqwest::Error;
 use reqwest::header::USER_AGENT;
 use env_logger;
 use log::error;
